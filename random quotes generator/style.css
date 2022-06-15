@@ -1,0 +1,32 @@
+body{
+    
+    background-color: #333232;
+}
+
+#container{
+    background-color: #0E2431;
+    border: 5px solid #f5e4c3;
+    height : 275px;
+    width : 750px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#btn {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-color: rgb(192, 192,191);
+    cursor: pointer;
+    
+}
+
+
+
+
+#output{
+    margin: 25px auto;
+    font-size: 26px;
+    color: white;
+}

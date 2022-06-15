@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 2rem;
+    box-shadow: rgba(0,0,0, 0.35) 0px 5px 15px;
+}
